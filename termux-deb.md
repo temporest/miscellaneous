@@ -134,3 +134,15 @@ dbus-launch --exit-with-session startxfce4 &
     ```sh
     exit
     ```
+
+## Temp Commands
+```sh
+wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
+```
+[https://dl.llaun.ch/legacy/bootstrap]
+```sh
+sudo apt install openjdk-17-jdk
+```
+
+## Conclusion
+- That is it currently, I have no plan to add anything soon.
