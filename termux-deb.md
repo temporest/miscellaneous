@@ -136,6 +136,13 @@ dbus-launch --exit-with-session startxfce4 &
     ```
 
 ## Temp Commands
+- Also install this to fix the taskbar not showing.
+```sh
+apt install xfce4 xfce4-goodies
+```
+- Then go to setting, change panel to default.
+
+- Install Pi-Apps.
 ```sh
 wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
 ```
