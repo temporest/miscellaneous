@@ -150,6 +150,7 @@ wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bas
 ```sh
 sudo apt install openjdk-17-jdk
 ```
+[https://www.google.com/amp/s/computingforgeeks.com/install-oracle-java-openjdk-on-debian-linux/%3famp]
 
 ## Conclusion
 - That is it currently, I have no plan to add anything soon.
